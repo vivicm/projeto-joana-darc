@@ -22,7 +22,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    text-size-adjust: auto;
+    font-size-adjust: auto;
 }
 
 body {
@@ -62,7 +62,7 @@ header > p {
 nav {
     background-color: var(--cor5);
     box-shadow: 0px -3px 6px #0000008f;
-    min-width: 420px;
+    min-width: 360px;
     max-width: 1040px;
     margin: auto;
 }
@@ -72,7 +72,7 @@ nav > a {
     padding: 2px;
     font-weight: bold;
     transition-duration: 0.5s;
-    font-size: 1.3em;
+    font-size: 1.1em;
 }
 
 nav > a:hover {
